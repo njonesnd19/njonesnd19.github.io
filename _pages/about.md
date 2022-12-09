@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in the Laboratory for Information and Decision Systems (LIDS) at MIT, advised by [Professor Eytan Modiano](https://modiano.mit.edu/). My research involves modeling and analyzing theoretical problems in communication networks, with an emphasis on optimization and network control. I am particularly interested in wireless networks and new challenges that arise with increasing mobile connectivity and real-time network applications. I am currently investigating the role of software defined networking (SDN) in multi-domain heterogeneous networks, and how SDN can improve end-to-end quality of service guarantees for different traffic classes.
+I am a third-year PhD student in the Laboratory for Information and Decision Systems (LIDS) at MIT, advised by [Professor Eytan Modiano](https://modiano.mit.edu/). My research involves modeling and analyzing theoretical problems in communication networks, with an emphasis on optimization and network control. I am particularly interested in wireless networks and new challenges that arise with increasing mobile connectivity and real-time network applications. I am currently investigating how software defined networks can improve service guarantees across multiple domains that include unreliable and changing wireless links. This is particularly useful for traffic with strict service requirements, such as emergency response, real-time video, AR/VR, and autonomous control.
 
 I received my Master's degree from MIT in Electrical Engineering and Computer Science in 2022. Before joining MIT, I received my Bachelor's degree in Electrical Engineering from the University of Notre Dame in 2019.
 
