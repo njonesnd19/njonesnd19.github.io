@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nick Jones"
-  avatar           : "files/headshot.png"
+  avatar           : "profile.png"
   bio              : "PhD candidate in Electrical Engineering and Computer Science at MIT LIDS"
   location         : "Cambridge, MA"
   employer         :
