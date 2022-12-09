@@ -16,20 +16,20 @@ My expected graduation is fall 2025, and I am currently looking for an internshi
 
 In my spare time I enjoy running, traveling, and hiking in the New Hampshire White Mountains.
 
+
 Publications
 ======
-
 ## Papers
 
-  * N. Jones and E. Modiano, "Minimizing Age of Information in Spatially Distributed Wireless Networks". Accepted to IEEE INFOCOM 2023. [arXiv](https://arxiv.org/abs/2212.03998).
-  * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information". Accepted to IEEE INFOCOM 2023. [arXiv](https://arxiv.org/abs/2212.03087).
+  * N. Jones and E. Modiano, "Minimizing Age of Information in Spatially Distributed Wireless Networks". Accepted to IEEE INFOCOM 2023. \[[arXiv](https://arxiv.org/abs/2212.03998)\]
+  * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information". Accepted to IEEE INFOCOM 2023. \[[arXiv](https://arxiv.org/abs/2212.03087)\]
 
 ## SM Thesis
 
-  * N. Jones, "Optimizing Random Access for Information Freshness in Spatially Distributed Wireless Networks". MIT EECS SM Thesis. [download](http://njonesnd19.github.io/files/sm_thesis.pdf).
+  * N. Jones, "Optimizing Random Access for Information Freshness in Spatially Distributed Wireless Networks". MIT EECS SM Thesis. \[[download](http://njonesnd19.github.io/files/sm_thesis.pdf)\]
+
 
 Resume
 ======
-
 Find the latest version of my resume [here](http://njonesnd19.github.io/files/resume.pdf).
 
