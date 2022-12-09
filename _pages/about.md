@@ -8,18 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the Laboratory for Information and Decision Systems (LIDS) at MIT, advised by [Professor Eytan Modiano](https://modiano.mit.edu/). My research involves modeling and analyzing complex theoretical problems in communication networks, with an emphasis on optimization and proving results in network control and performance. I am particularly interested in wireless networks and new challenges that arise with increasing mobile connectivity and real-time network applications. I am currently investigating the role of software defined networking (SDN) in multi-domain and possibly heterogeneous networks, and how SDN can improve end-to-end quality of service guarantees for different classes of traffic.
+I am a third-year PhD student in the Laboratory for Information and Decision Systems (LIDS) at MIT, advised by [Professor Eytan Modiano](https://modiano.mit.edu/). My research involves modeling and analyzing theoretical problems in communication networks, with an emphasis on optimization and network control. I am particularly interested in wireless networks and new challenges that arise with increasing mobile connectivity and real-time network applications. I am currently investigating the role of software defined networking (SDN) in multi-domain heterogeneous networks, and how SDN can improve end-to-end quality of service guarantees for different traffic classes.
+
+I received my Master's degree from MIT in Electrical Engineering and Computer Science in 2022. Before joining MIT, I received my Bachelor's degree in Electrical Engineering from the University of Notre Dame in 2019.
 
 My expected graduation is fall 2025, and I am currently looking for an internship position for summer 2023.
 
-In my spare time I enjoy running and hiking, and hope to complete all 48 New Hampshire 4000 footers before graduation.
+In my spare time I enjoy running, traveling, and hiking in the New Hampshire White Mountains.
 
 Publications
 ======
 
-some publications
+## Papers
 
-Getting started
+	* N. Jones and E. Modiano, "Minimizing Age of Information in Spatially Distributed Wireless Networks". Accepted to IEEE INFOCOM 2023.
+	* V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information". Accepted to IEEE INFOCOM 2023. [[arXiv](https://arxiv.org/abs/2212.03087)].
+
+## SM Thesis
+
+	* N. Jones, "Optimizing Random Access for Information Freshness in Spatially Distributed Wireless Networks". MIT EECS SM Thesis. [[download](http://njonesnd19.github.io/files/sm_thesis.pdf)].
+
+Resume
 ======
 
-some more stuff
+Find the latest version of my resume [here](http://njonesnd19.github.io/files/resume.pdf).
+
