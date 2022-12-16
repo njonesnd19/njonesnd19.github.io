@@ -18,7 +18,7 @@ In my spare time I enjoy running, traveling, and hiking in the New Hampshire Whi
 
 ## Papers
 
-  * N. Jones and E. Modiano, "Minimizing Age of Information in Spatially Distributed Wireless Networks". Accepted to IEEE INFOCOM 2023. \[[arXiv](https://arxiv.org/pdf/2212.03998)\]
+  * N. Jones and E. Modiano, "Minimizing Age of Information in Spatially Distributed Random Access Wireless Networks". Accepted to IEEE INFOCOM 2023. \[[arXiv](https://arxiv.org/pdf/2212.03998)\]
   * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information". Accepted to IEEE INFOCOM 2023. \[[arXiv](https://arxiv.org/pdf/2212.03087)\]
 
 ## SM Thesis
