@@ -23,7 +23,7 @@ In my spare time I enjoy running, traveling, and hiking in the New Hampshire Whi
 
 ## SM Thesis
 
-  * N. Jones, "Optimizing Random Access for Information Freshness in Spatially Distributed Wireless Networks". MIT EECS SM Thesis. \[[download](https://njonesnd19.github.io/files/sm_thesis.pdf)\]
+  * N. Jones, "Optimizing Random Access for Information Freshness in Spatially Distributed Wireless Networks". MIT EECS SM Thesis. \[[MIT Libraries](https://dspace.mit.edu/handle/1721.1/147292)\]
 
 
 ## Resume
