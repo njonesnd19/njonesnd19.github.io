@@ -26,5 +26,4 @@ In my spare time I enjoy running, traveling, and hiking in the New Hampshire Whi
 
 ## Resume
 
-Find the latest version of my resume [here](https://njonesnd19.github.io/files/resume.pdf).
-
+Find the latest version of my resume [here](https://njonesnd19.github.io/files/Resume.pdf).
