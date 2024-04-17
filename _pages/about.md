@@ -28,7 +28,7 @@ In my spare time I enjoy running, traveling, and hiking in the New Hampshire Whi
 
 ## Preprints
 
-  * N. Jones and E. Modiano, "Optimal Slicing and Scheduling with Service Guarantees in Multi-Hop Wireless Networks". _Preprint available (2024)._ \[[Arxiv](https://arxiv.org/abs/2404.08637)\]
+  * N. Jones and E. Modiano, "Optimal Slicing and Scheduling with Service Guarantees in Multi-Hop Wireless Networks". _Preprint available (2024)._ \[[arXiv](https://arxiv.org/abs/2404.08637)\]
 
 ## SM Thesis
 
