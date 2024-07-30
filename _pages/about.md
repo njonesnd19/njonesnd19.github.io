@@ -11,7 +11,7 @@ I am a fourth-year PhD student in the Laboratory for Information and Decision Sy
 
 I received my Master's degree from MIT in Electrical Engineering and Computer Science in 2022. Before joining MIT, I received my Bachelor's degree in Electrical Engineering from the University of Notre Dame in 2019.
 
-My expected graduation is Spring 2026.
+My expected graduation is spring 2026.
 
 In my spare time I enjoy running, traveling, and hiking.
 
@@ -23,9 +23,9 @@ In my spare time I enjoy running, traveling, and hiking.
 
 ## Conference Papers
 
-  * N. Jones and E. Modiano, "Optimal Slicing and Scheduling with Service Guarantees in Multi-Hop Wireless Networks". _Accepted to ACM MobiHoc 2024. Technical report available._ \[[arXiv](https://arxiv.org/abs/2404.08637)\]
-  * N. Jones and E. Modiano, "Minimizing Age of Information in Spatially Distributed Wireless Networks". _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10229041)\]
-  * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information". _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10228917)\]
+  * N. Jones and E. Modiano, "Optimal slicing and scheduling with service guarantees in multi-hop wireless networks". _Accepted to ACM MobiHoc 2024. Technical report available._ \[[arXiv](https://arxiv.org/abs/2404.08637)\]
+  * N. Jones and E. Modiano, "Minimizing age of information in spatially distributed wireless networks". _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10229041)\]
+  * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A distributed protocol for minimizing age of information". _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10228917)\]
 
 <!-- ## Preprints
 
@@ -33,7 +33,7 @@ In my spare time I enjoy running, traveling, and hiking.
 
 ## SM Thesis
 
-  * N. Jones, "Optimizing Random Access for Information Freshness in Spatially Distributed Wireless Networks". MIT EECS SM Thesis. \[[download](https://njonesnd19.github.io/files/sm_thesis.pdf)\]
+  * N. Jones, "Optimizing random access for information freshness in satially distributed wireless networks". MIT EECS SM Thesis. \[[download](https://njonesnd19.github.io/files/sm_thesis.pdf)\]
 
 
 ## Resume
