@@ -18,15 +18,15 @@ In my spare time I enjoy running, traveling, and hiking.
 
 ## Journal Papers
 
-  * N. Jones and E. Modiano, "Minimizing age of information in spatially distributed wireless networks". _Under review at IEEE/ACM Transactions on Networking (2024)._
-  * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A distributed protocol for minimizing age of information". _Journal of Communications and Networks (2023)._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10323421)\]
+  * N. Jones and E. Modiano, "Minimizing age of information in spatially distributed wireless networks." _Under review at IEEE/ACM Transactions on Networking (2024)._
+  * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A distributed protocol for minimizing age of information." _Journal of Communications and Networks (2023)._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10323421)\]
 
 ## Conference Papers
 
-  * N. Jones and E. Modiano, "Optimal slicing and scheduling with service guarantees in multi-hop wireless networks". _Accepted to ACM MobiHoc 2024. Technical report available._ \[[arXiv](https://arxiv.org/abs/2404.08637)\]
-  * N. Jones, Joshua Wornell, Chao Li, and Eytan Modiano, "Achieving AoI fairness in spatially distributed wireless networks: from theory to implementation". _Accepted to WiOpt 2024. Technical Report available._ \[[arxiv](https://arxiv.org/abs/2408.16120)\]
-  * N. Jones and E. Modiano, "Minimizing age of information in spatially distributed wireless networks". _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10229041)\]
-  * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A distributed protocol for minimizing age of information". _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10228917)\]
+  * N. Jones and E. Modiano, "Optimal slicing and scheduling with service guarantees in multi-hop wireless networks." _Accepted to ACM MobiHoc 2024. Technical report available._ \[[arXiv](https://arxiv.org/abs/2404.08637)\]
+  * N. Jones, Joshua Wornell, Chao Li, and Eytan Modiano, "Achieving AoI fairness in spatially distributed wireless networks: From theory to implementation." _Accepted to WiOpt 2024. Technical Report available._ \[[arXiv](https://arxiv.org/abs/2408.16120)\]
+  * N. Jones and E. Modiano, "Minimizing age of information in spatially distributed wireless networks." _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10229041)\]
+  * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A distributed protocol for minimizing age of information." _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10228917)\]
 
 <!-- ## Preprints
 
@@ -34,7 +34,7 @@ In my spare time I enjoy running, traveling, and hiking.
 
 ## SM Thesis
 
-  * N. Jones, "Optimizing random access for information freshness in spatially distributed wireless networks". MIT EECS SM Thesis. \[[download](https://njonesnd19.github.io/files/sm_thesis.pdf)\]
+  * N. Jones, "Optimizing random access for information freshness in spatially distributed wireless networks." MIT EECS SM Thesis. \[[download](https://njonesnd19.github.io/files/sm_thesis.pdf)\]
 
 
 ## Resume
