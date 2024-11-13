@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year PhD student in the Laboratory for Information and Decision Systems (LIDS) at MIT, advised by [Professor Eytan Modiano](https://modiano.mit.edu/). My research involves modeling and analyzing problems in communication networks, with an emphasis on optimizing network performance. I am particularly interested in wireless networks and new challenges that arise with increasing mobile connectivity and real-time network applications. I am currently investigating the use of network slicing to provide service guarantees. This is particularly useful for traffic with strict latency requirements, such as real-time control, remote surgery, and augmented/virtual reality.
+I am a PhD student in the Laboratory for Information and Decision Systems (LIDS) at MIT, advised by [Professor Eytan Modiano](https://modiano.mit.edu/). My research involves modeling and analyzing problems in communication networks, using tools from optimization, probability theory, and learning.
 
 I received my Master's degree from MIT in Electrical Engineering and Computer Science in 2022. Before joining MIT, I received my Bachelor's degree in Electrical Engineering from the University of Notre Dame in 2019.
 
