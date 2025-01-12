@@ -24,7 +24,7 @@ In my spare time I enjoy running, traveling, and hiking.
 ## Conference Papers
 
   * N. Jones and E. Modiano, "Optimal slicing and scheduling with service guarantees in multi-hop wireless networks." _Proceedings ACM MobiHoc 2024._ \[[ACM](https://dl.acm.org/doi/10.1145/3641512.3686385)\]
-  * N. Jones, J. Wornell, C. Li, and E. Modiano, "Achieving AoI fairness in spatially distributed wireless networks: From theory to implementation." _Accepted to WiOpt 2024. Technical Report available._ \[[arXiv](https://arxiv.org/abs/2408.16120)\]
+  * N. Jones, J. Wornell, C. Li, and E. Modiano, "Achieving AoI fairness in spatially distributed wireless networks: From theory to implementation." _Proceedings WiOpt 2024._ \[[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10778312/)\]
   * N. Jones and E. Modiano, "Minimizing age of information in spatially distributed wireless networks." _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10229041)\]
   * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A distributed protocol for minimizing age of information." _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10228917)\]
 
