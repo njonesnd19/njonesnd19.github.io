@@ -11,7 +11,7 @@ I am a PhD student in the Laboratory for Information and Decision Systems (LIDS)
 
 I received my Master's degree from MIT in Electrical Engineering and Computer Science in 2022. Before joining MIT, I received my Bachelor's degree in Electrical Engineering from the University of Notre Dame in 2019.
 
-My expected graduation is spring 2026.
+My expected graduation is summer 2026.
 
 In my spare time I enjoy running, traveling, and hiking.
 
