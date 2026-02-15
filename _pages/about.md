@@ -28,9 +28,9 @@ In my spare time I enjoy running, traveling, and hiking.
   * N. Jones and E. Modiano, "Minimizing age of information in spatially distributed wireless networks." _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10229041)\]
   * V. Tripathi, N. Jones, and E. Modiano, "Fresh-CSMA: A distributed protocol for minimizing age of information." _Proceedings IEEE INFOCOM 2023._ \[[IEEEXplore](https://ieeexplore.ieee.org/document/10228917)\]
 
-<!-- ## Preprints
+## Preprints
 
-  * N. Jones and E. Modiano, "Optimal Slicing and Scheduling with Service Guarantees in Multi-Hop Wireless Networks". _Preprint available (2024)._ \[[arXiv](https://arxiv.org/abs/2404.08637)\] -->
+  * N. Jones and E. Modiano, "Utility maximization in wireless backhaul networks with service guarantees". _Preprint available (2026)._ \[[arXiv](https://arxiv.org/abs/2601.01630)\] -->
 
 ## SM Thesis
 
