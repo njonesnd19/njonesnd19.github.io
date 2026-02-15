@@ -30,7 +30,7 @@ In my spare time I enjoy running, traveling, and hiking.
 
 ## Preprints
 
-  * N. Jones and E. Modiano, "Utility maximization in wireless backhaul networks with service guarantees". _Preprint available (2026)._ \[[arXiv](https://arxiv.org/abs/2601.01630)\] -->
+  * N. Jones and E. Modiano, "Utility maximization in wireless backhaul networks with service guarantees". _Preprint available (2026)._ \[[arXiv](https://arxiv.org/abs/2601.01630)\]
 
 ## SM Thesis
 
